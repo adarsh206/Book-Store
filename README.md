@@ -11,6 +11,7 @@ Build an Online Book Store with MERN Stack with the hekp of MongoDB Atlas &amp; 
 6. each section have its own things to do.
 7. in the sell you book section only admin can add, delete and manage books.
 8. If you are admin then you can do the following things:
+
                                     1. can add the book.
                                     2. can delete the books.
                                     3. can update about the books details.
