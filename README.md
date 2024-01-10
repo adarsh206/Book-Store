@@ -11,30 +11,30 @@ Build an Online Book Store with MERN Stack with the hekp of MongoDB Atlas &amp; 
 6. each section have its own things to do.
 7. in the sell you book section only admin can add, delete and manage books.
 8. If you are admin then you can do the following things:
-         1. can add the book.
-         2. can delete the books.
-         3. can update about the books details.
-         4. and manage about the books.
+                                    1. can add the book.
+                                    2. can delete the books.
+                                    3. can update about the books details.
+                                    4. and manage about the books.
 
-9. in the below so many sections is there to explore like best seller books.
-10. and have also the records of books downloads, available books and current registered user.
-11. you can also search any books in this.
-12. one banner section is also there which states about the award winning book.
-13. and in the below section it will also show you the other books options.
-14. it also have feature to show the books based on category.
-15. it have good animation when you scroll the books in the right or left side.
-16. in the start it have great features of some books to show like animation.
-17. in the below section reviews section is also there where reviews about book and  photo, name and position of a person is also mentioned.
-18. there is also footer where you find to know anout the sites and books and many things.
-19. if you are a user or admin then only you can buy or sell books.
-20. otherwise first sign up and then buy or sell books.
-21. after signing it will directly bring you to the homepage.
-22. dashboard section is also there where you can see the good features of sites.
-23. after login it will show your images and name in the login section if image is there.
-24. and in the upper corner side it will show your email id in the homepage will looks cool.
-25. after logout also it will brings you to the homepage.
-26. books logo is also there in the site name side.
-27. in the about section things about sites is mentioned.
+10. in the below so many sections is there to explore like best seller books.
+11. and have also the records of books downloads, available books and current registered user.
+12. you can also search any books in this.
+13. one banner section is also there which states about the award winning book.
+14. and in the below section it will also show you the other books options.
+15. it also have feature to show the books based on category.
+16. it have good animation when you scroll the books in the right or left side.
+17. in the start it have great features of some books to show like animation.
+18. in the below section reviews section is also there where reviews about book and  photo, name and position of a person is also mentioned.
+19. there is also footer where you find to know anout the sites and books and many things.
+20. if you are a user or admin then only you can buy or sell books.
+21. otherwise first sign up and then buy or sell books.
+22. after signing it will directly bring you to the homepage.
+23. dashboard section is also there where you can see the good features of sites.
+24. after login it will show your images and name in the login section if image is there.
+25. and in the upper corner side it will show your email id in the homepage will looks cool.
+26. after logout also it will brings you to the homepage.
+27. books logo is also there in the site name side.
+28. in the about section things about sites is mentioned.
 
 
    
