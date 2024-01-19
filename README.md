@@ -1,5 +1,5 @@
 # Book-Store
-Build an Online Book Store with MERN Stack with the hekp of MongoDB Atlas &amp; FireBase. 
+Build an Fully responsive Online Book Store with MERN Stack with the hekp of MongoDB Atlas &amp; FireBase. 
 
 # Description :
 
@@ -26,7 +26,7 @@ Build an Online Book Store with MERN Stack with the hekp of MongoDB Atlas &amp; 
 16. it have good animation when you scroll the books in the right or left side.
 17. in the start it have great features of some books to show like animation.
 18. in the below section reviews section is also there where reviews about book and  photo, name and position of a person is also mentioned.
-19. there is also footer where you find to know anout the sites and books and many things.
+19. there is also footer where you find to know about the sites and books and many things.
 20. if you are a user or admin then only you can buy or sell books.
 21. otherwise first sign up and then buy or sell books.
 22. after signing it will directly bring you to the homepage.
@@ -36,6 +36,7 @@ Build an Online Book Store with MERN Stack with the hekp of MongoDB Atlas &amp; 
 26. after logout also it will brings you to the homepage.
 27. books logo is also there in the site name side.
 28. in the about section things about sites is mentioned.
+29. you can also login with your google account.
 
 
    
