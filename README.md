@@ -1,5 +1,5 @@
 # Book-Store
-Build a Fully responsive Online Book Store with MERN Stack with the hekp of MongoDB Atlas &amp; FireBase. 
+Build a Fully responsive Online Book Store with MERN Stack with the hekp of Tailwind CSS, MongoDB Atlas &amp; FireBase. 
 
 # Description :
 
